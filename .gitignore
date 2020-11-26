@@ -33,7 +33,7 @@ speed-measure-plugin*.json
 .history/*
 
 # misc
-/environments/environment.ts
+environments/*
 /.sass-cache
 /connect.lock
 /coverage
