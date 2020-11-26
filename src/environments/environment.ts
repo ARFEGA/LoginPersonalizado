@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  WEB_API_KEY_FIREBASE:'AIzaSyATIFhAiZJMUqgH9EF2INs_ZXymNhXckCI'
+  WEB_API_KEY_FIREBASE:''
 
 };
 
